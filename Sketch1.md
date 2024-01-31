@@ -3,3 +3,5 @@ For this sketch, I wanted to work with the idea that the way people write narrat
 My narrative generating system mimics the game Mad libs but on a website. But it also allows users to pick a genre to recreate what the predetermined “Murder” search created. Once the user picks the genre, they are taken to a separate page to fill out the words needed to complete the story. The story is made up of an introduction, climax and conclusion. However, in both of the genres, the stories generated do not adhere to the category itself. They are both a mix of each other.
 </br>
 I also wanted to randomize the story itself (each of these components (introduction, climax and conclusion) are randomized across the genres) every time the user plays but I had errors that I wasn’t able to resolve in time. I didn’t play around extensively with the format of the story itself, mainly because I was worried about the right level of randomization for getting a point across (how much can I truly randomize before it becomes just a random story generator).
+
+[Play Mad Libs Here!](https://liyanibrahim.github.io/madlibs/index.html)
