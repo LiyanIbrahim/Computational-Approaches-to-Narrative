@@ -1,1 +1,6 @@
+For this assignment, I decided to adapt my undergraduate capstone project - which was an interactive website on the complexities of being a postcolonial subject online. It took the  
+form of a journal entry so i decided to make this 2 parts/add on to it since my actual capstone project and narrative was mainly linear in the sense that you can only go one way and you mainly follow one link and I felt like it could also be interesting to explore how twine can take on linear narratives but also ones like those we’ve seen in class in which they can loop. </br>
+Therefore, I added a part of the experience that gives the illusion of choice for alternate realities. </br>
+I was interested in adding different pathways to see how differently people experience reality but ultimately it’s the same outcome. </br>
+I really enjoyed using twine. I think for certain kinds of narratives/stories, it is a really useful tool. I especially thought that because my capstone project was almost a perfect candidate for twine and I think, if I was introduced to this tool when working on my capstone, I would’ve explored more or alternate ways of adapting the story in a more customized way than what it was on the website. 
 
